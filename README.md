@@ -13,6 +13,33 @@ Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journe
 - 🙋 Complete doubt support
 - 🎓 Detailed guides on everything you need to know
 
+---
+
+## Assignment Solutions and Documentation
+
+- **Library Management System Database Project**
+  - File: [Library Management System database Project.sql](link-to-your-file)
+  - Update: [Update Library Management System database Project.sql](link-to-update-file)
+
+- **Blog CMS MySQL Script**
+  - File: [blog_cms_mysql_script.sql](link-to-your-file)
+
+- **Ecommerce Backend MySQL Script**
+  - File: [ecommerce_backend_mysql.sql](link-to-your-file)
+
+- **Ecommerce Platform MySQL Script**
+  - File: [ecommerce_platform_mysql_script.sql](link-to-your-file)
+
+- **Expense Tracker MySQL Script**
+  - File: [expense_tracker_mysql_script.sql](link-to-your-file)
+
+- **Hospital Management System MySQL Script**
+  - File: [hospital_management_system_mysql_script.sql](link-to-your-file)
+
+- **Student Management System MySQL**
+  - File: [student_management_system_mysql.sql](link-to-your-file)
+
+
 
 
 
