@@ -87,6 +87,8 @@ Welcome to your journey of mastering MySQL! This repository will serve as your g
 
 
 ![SQL on Linux-1](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/SQL%20on%20Linux-1.jpg)
+![SQL on Linux-1](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/SQL%20on%20Linux-2.jpg)
+
 ![SQL on Linux-3](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/SQL%20on%20Linux-3.jpg)
 ![SQL on Linux-4](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/SQL%20on%20Linux-4.jpg)
 ![SQL on Linux-5](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/SQL%20on%20Linux-5.jpg)
