@@ -8,7 +8,7 @@ Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journe
 ### 📘For comprehensive MySQL learning, explore [*MySQL: The Complete Reference*](https://www.google.co.in/books/edition/MySQL_The_Complete_Reference/zIKGrfh_PtkC?hl=en&gbpv=1&dq=mySQL%20complete%20series&pg=PP1&printsec=frontcover). 
 
 ### [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
-🆓 It's Free Free Free! Explore my YouTube channel for comprehensive series in Hindi, featuring:
+🆓 **It's Free Free Free!** Explore my YouTube channel for comprehensive series in Hindi, featuring:
 - 📘 All resources
 - 🙋 Complete doubt support
 - 🎓 Detailed guides on everything you need to know
@@ -18,26 +18,26 @@ Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journe
 ## Assignment Solutions and Documentation
 
 - **Library Management System Database Project**
-  - File: [Library Management System database Project.sql](link-to-your-file)
-  - Update: [Update Library Management System database Project.sql](link-to-update-file)
+  - 📚 File: [Library Management System database Project.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Library%20Management%20System%20database%20Project.sql)
 
 - **Blog CMS MySQL Script**
-  - File: [blog_cms_mysql_script.sql](link-to-your-file)
+  - 📝 File: [blog_cms_mysql_script.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/blog_cms_mysql_script.sql)
 
 - **Ecommerce Backend MySQL Script**
-  - File: [ecommerce_backend_mysql.sql](link-to-your-file)
+  - 🛒 File: [ecommerce_backend_mysql.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/ecommerce_backend_mysql.sql)
 
 - **Ecommerce Platform MySQL Script**
-  - File: [ecommerce_platform_mysql_script.sql](link-to-your-file)
+  - 🌐 File: [ecommerce_platform_mysql_script.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/ecommerce_platform_mysql_script.sql)
 
 - **Expense Tracker MySQL Script**
-  - File: [expense_tracker_mysql_script.sql](link-to-your-file)
+  - 💸 File: [expense_tracker_mysql_script.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/expense_tracker_mysql_script.sql)
 
 - **Hospital Management System MySQL Script**
-  - File: [hospital_management_system_mysql_script.sql](link-to-your-file)
+  - 🏥 File: [hospital_management_system_mysql_script.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/hospital_management_system_mysql_script.sql)
 
 - **Student Management System MySQL**
-  - File: [student_management_system_mysql.sql](link-to-your-file)
+  - 🎓 File: [student_management_system_mysql.sql](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/student_management_system_mysql.sql)
+
 
 
 
@@ -60,6 +60,8 @@ Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journe
   - 📚 [10. Real-World Projects](#10-real-world-projects)
 - 📜 [License](#license)
 - 🙌 [Acknowledgements](#acknowledgements)
+
+---
 
 ## 🌟 Introduction
 Welcome to your journey of mastering MySQL! This repository will serve as your guide and reference point as you learn and practice SQL. Whether you're a complete beginner or looking to sharpen your skills, this course is designed for you.
