@@ -7,7 +7,7 @@ Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journe
 
 ### 📘For comprehensive MySQL learning, explore [*MySQL: The Complete Reference*](https://www.google.co.in/books/edition/MySQL_The_Complete_Reference/zIKGrfh_PtkC?hl=en&gbpv=1&dq=mySQL%20complete%20series&pg=PP1&printsec=frontcover). 
 
-### [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
+### [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@advindiancoder)
 🆓 **It's Free Free Free!** Explore my YouTube channel for comprehensive series in Hindi, featuring:
 - 📘 All resources
 - 🙋 Complete doubt support
