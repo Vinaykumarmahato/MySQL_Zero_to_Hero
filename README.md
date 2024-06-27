@@ -3,9 +3,15 @@
 
 Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journey to master MySQL, starting from the basics and advancing to complex queries and optimizations. All code and examples will be stored here for easy reference and practice.
 
-### 📘 For detailed MySQL documentation, refer to the [MySQL 8.0 Reference Manual](https://downloads.mysql.com/docs/refman-8.0-en.pdf). [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red)](https://www.youtube.com/your_channel_url_here)
+### 📘 For detailed MySQL documentation, refer to the [MySQL 8.0 Reference Manual](https://downloads.mysql.com/docs/refman-8.0-en.pdf). 
 
-### 📘For comprehensive MySQL learning, explore [*MySQL: The Complete Reference*](https://www.google.co.in/books/edition/MySQL_The_Complete_Reference/zIKGrfh_PtkC?hl=en&gbpv=1&dq=mySQL%20complete%20series&pg=PP1&printsec=frontcover). [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red)](https://youtube.com/@advindiancoder?si=leymou_H9rWvolMX)
+### 📘For comprehensive MySQL learning, explore [*MySQL: The Complete Reference*](https://www.google.co.in/books/edition/MySQL_The_Complete_Reference/zIKGrfh_PtkC?hl=en&gbpv=1&dq=mySQL%20complete%20series&pg=PP1&printsec=frontcover). 
+
+### [![Visit my YouTube Channel](https://img.shields.io/badge/Visit%20my-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel-id)
+🆓 It's Free Free Free! Explore my YouTube channel for comprehensive series in Hindi, featuring:
+- 📘 All resources
+- 🙋 Complete doubt support
+- 🎓 Detailed guides on everything you need to know
 
 
 
