@@ -1,5 +1,6 @@
 # 🔰 MySQL Zero to Hero 🚀
-https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/Logo%20(1).png
+![SQL on Linux-10](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/Complete%20pdf%20history/Logo%20(1).png)
+
 Welcome to the **MySQL Zero to Hero** repository! This is a comprehensive journey to master MySQL, starting from the basics and advancing to complex queries and optimizations. All code and examples will be stored here for easy reference and practice.
 
 ## 📋 Table of Contents
