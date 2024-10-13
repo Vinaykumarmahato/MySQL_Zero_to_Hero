@@ -1,10 +1,4 @@
-
-
-
-### 🔗 Joins (`inner_outer_joins.sql`)
-
-markdown
-# 🔗 Joins: INNER & OUTER
+# 🔗 Joins: INNER & OUTER (`inner_outer_joins.sql`)
 
 ## What is it?
 - **INNER JOIN**: Returns records that have matching values in both tables.
@@ -20,8 +14,11 @@ In a **social media app**:
 - An `INNER JOIN` could combine users and posts to display only the posts from users with matching profiles.
 - An `OUTER JOIN` might show users and their posts, even if some users have not made any posts (by returning NULL for missing posts).
 
+## Project: Social Media Database Queries
+In this project, we will utilize different types of joins to retrieve user and post information, enhancing the data retrieval process in our social media application.
+
 ### Example Code
-sql
+```sql
 -- INNER JOIN: Get users with posts
 SELECT users.username, posts.content
 FROM users
