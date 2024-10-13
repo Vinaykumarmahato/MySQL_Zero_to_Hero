@@ -1,9 +1,4 @@
-
-
-### 🏷️ Data Types (`data_types_examples.sql`)
-
-markdown
-# 🏷️ Data Types
+# 🏷️ Data Types (`data_types_examples.sql`)
 
 ## What is it?
 **Data Types** define the kind of data a column can hold in a MySQL database, such as:
@@ -21,8 +16,11 @@ In a **customer database**, storing a customer's **age** as an `INT` and their *
 - You can perform operations like calculations on age.
 - You store variable-length text efficiently for email addresses.
 
+## Project: Customer Database Management
+In this project, we will create a customer database that effectively utilizes various data types to ensure data accuracy and optimize performance. 
+
 ### Example Code
-sql
+```sql
 CREATE TABLE customers (
   customer_id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100),
