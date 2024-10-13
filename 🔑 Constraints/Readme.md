@@ -1,9 +1,4 @@
-
-
-### 🔑 Constraints (`primary_foreign_keys.sql`)
-
-markdown
-# 🔑 Constraints: PRIMARY & FOREIGN KEYS
+# 🔑 Constraints: PRIMARY & FOREIGN KEYS (`primary_foreign_keys.sql`)
 
 ## What is it?
 - **PRIMARY KEY**: A unique identifier for each record in a table.
@@ -18,8 +13,11 @@ In an **e-commerce system**:
 - The `customer_id` field in the `customers` table is a **PRIMARY KEY** (each customer has a unique ID).
 - The `order_id` field in the `orders` table is linked to `customer_id` as a **FOREIGN KEY**, ensuring orders always belong to valid customers.
 
+## Project: E-Commerce Database Setup
+In this project, we will set up the database for an e-commerce application, defining primary and foreign keys to maintain data integrity and establish relationships between customers and their orders.
+
 ### Example Code
-sql
+```sql
 CREATE TABLE customers (
   customer_id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100)
