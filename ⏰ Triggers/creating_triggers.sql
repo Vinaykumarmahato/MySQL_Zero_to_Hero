@@ -7,6 +7,7 @@ CREATE TABLE salary_audit (
     change_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+
 -- Creating an employees table
 CREATE TABLE employees (
     emp_id INT AUTO_INCREMENT PRIMARY KEY,
