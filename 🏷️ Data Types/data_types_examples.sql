@@ -6,6 +6,7 @@ CREATE TABLE employees (
     hire_date DATE
 );
 
+
 -- Inserting data into the table
 INSERT INTO employees (name, salary, hire_date)
 VALUES ('Alice', 50000.00, '2022-05-10'),
