@@ -3,6 +3,7 @@
 -- Date: [Date]
 -- Description: This script demonstrates how to handle JSON data in MySQL, including storing, querying, and manipulating JSON fields.
 
+
 -- ====================================
 -- 📘 Introduction
 -- ====================================
