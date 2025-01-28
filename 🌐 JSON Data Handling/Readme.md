@@ -12,6 +12,7 @@
 ## Real-life Scenario
 In a **social media application**, user preferences may vary widely. Storing user preferences as JSON data allows for flexible storage and easy retrieval without needing to alter the database schema frequently.
 
+
 ### Example Code
 ```sql
 -- Create a table with a JSON column
