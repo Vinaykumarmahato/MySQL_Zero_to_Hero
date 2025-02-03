@@ -6,6 +6,7 @@ CREATE TABLE employees (
     dept_id INT
 );
 
+
 -- Inserting data
 INSERT INTO employees (emp_name, salary, dept_id)
 VALUES ('John Doe', 50000, 1),
