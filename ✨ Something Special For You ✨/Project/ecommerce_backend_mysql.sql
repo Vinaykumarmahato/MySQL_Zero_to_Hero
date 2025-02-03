@@ -4,6 +4,7 @@ CREATE DATABASE IF NOT EXISTS ECommerceDB;
 -- Use the database
 USE ECommerceDB;
 
+
 -- Users Table
 CREATE TABLE IF NOT EXISTS Users (
     user_id INT AUTO_INCREMENT PRIMARY KEY, -- Unique identifier for each user
