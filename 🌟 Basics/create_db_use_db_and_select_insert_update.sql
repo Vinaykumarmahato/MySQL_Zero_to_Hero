@@ -13,6 +13,7 @@ CREATE TABLE students (
     grade VARCHAR(10)
 );
 
+
 -- Inserting data into the table
 INSERT INTO students (name, age, grade)
 VALUES ('John Doe', 16, '10th Grade'),
