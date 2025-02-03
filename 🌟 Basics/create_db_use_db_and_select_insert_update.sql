@@ -4,6 +4,7 @@ CREATE DATABASE school_db;
 -- Using the newly created database
 USE school_db;
 
+
 -- Creating a table
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
