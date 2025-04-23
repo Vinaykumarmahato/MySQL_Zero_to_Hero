@@ -19,12 +19,7 @@ In a **customer database**, storing a customer's **age** as an `INT` and their *
 ## Project: Customer Database Management
 In this project, we will create a customer database that effectively utilizes various data types to ensure data accuracy and optimize performance. 
 
-### Example Code
-```sql
-CREATE TABLE customers (
-  customer_id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(100),
-  age INT,
-  email VARCHAR(100),
-  registration_date DATE
-);
+![Alt Text](https://github.com/YourUsername/RepoName/raw/main/mybanner.png)
+![Alt Text](https://github.com/YourUsername/RepoName/raw/main/mybanner.png)
+![Alt Text](https://github.com/YourUsername/RepoName/raw/main/mybanner.png)
+![Alt Text](https://github.com/YourUsername/RepoName/raw/main/mybanner.png)
