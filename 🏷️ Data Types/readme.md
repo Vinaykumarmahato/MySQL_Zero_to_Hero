@@ -19,12 +19,7 @@ In a **customer database**, storing a customer's **age** as an `INT` and their *
 ## Project: Customer Database Management
 In this project, we will create a customer database that effectively utilizes various data types to ensure data accuracy and optimize performance. 
 
-### Example Code
-```sql
-CREATE TABLE customers (
-  customer_id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(100),
-  age INT,
-  email VARCHAR(100),
-  registration_date DATE
-);
+![Alt Text](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/%F0%9F%8F%B7%EF%B8%8F%20Data%20Types/1.png)
+![Alt Text](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/%F0%9F%8F%B7%EF%B8%8F%20Data%20Types/2.png)
+![Alt Text](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/%F0%9F%8F%B7%EF%B8%8F%20Data%20Types/3.png)
+![Alt Text](https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero/blob/main/%F0%9F%8F%B7%EF%B8%8F%20Data%20Types/4.png)
